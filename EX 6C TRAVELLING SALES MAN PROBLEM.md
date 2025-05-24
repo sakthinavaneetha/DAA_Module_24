@@ -20,7 +20,7 @@ To Solve Travelling Sales man Problem for the following graph.
 ## Program :
 ```
 Developed by:Sakthi Navaneetha
-Register Number:  212222040138
+Register Number:212222040138
 ```
 ```
 def tsp_cost(tsp):
